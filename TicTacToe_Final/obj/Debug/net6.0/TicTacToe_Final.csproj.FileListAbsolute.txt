@@ -1,0 +1,15 @@
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\bin\Debug\net6.0\TicTacToe_Final.exe
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\bin\Debug\net6.0\TicTacToe_Final.deps.json
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\bin\Debug\net6.0\TicTacToe_Final.runtimeconfig.json
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\bin\Debug\net6.0\TicTacToe_Final.dll
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\bin\Debug\net6.0\TicTacToe_Final.pdb
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\obj\Debug\net6.0\TicTacToe_Final.csproj.AssemblyReference.cache
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\obj\Debug\net6.0\TicTacToe_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\obj\Debug\net6.0\TicTacToe_Final.AssemblyInfoInputs.cache
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\obj\Debug\net6.0\TicTacToe_Final.AssemblyInfo.cs
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\obj\Debug\net6.0\TicTacToe_Final.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\obj\Debug\net6.0\TicTacToe_Final.dll
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\obj\Debug\net6.0\refint\TicTacToe_Final.dll
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\obj\Debug\net6.0\TicTacToe_Final.pdb
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\obj\Debug\net6.0\TicTacToe_Final.genruntimeconfig.cache
+C:\Coding\Repository1\TicTacToe_Game\TicTacToe_Final\obj\Debug\net6.0\ref\TicTacToe_Final.dll
